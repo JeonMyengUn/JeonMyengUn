@@ -5,8 +5,7 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KyZXEAg3QhqLMpG8r+8fhAXLRk2vvoC2f3B09zVXn8CA5QIVfZOJ3BCsw2P0p/We" crossorigin="anonymous">
 </head>
 <body>
-    <div class="container">
-        <header>
+        <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Stria_type&fontSize=70&animation=fadeIn" />
             <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
             <hr>
             <div class="stack_list" align="center">
@@ -17,7 +16,7 @@
             </div>
             <div class="contact_me">
                 <div align="center">
-                  <p>Contact_me</p>
+                  <h3 align="center"><b>📮 Contact me 📮</b></h3>
                 </div>
             </div>
             <div class="other" align="center">
@@ -27,7 +26,5 @@
                 <hr>
                 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJeonMyengUn&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
             </div>
-        </header>
-    </div>
 </body>
 </html>
