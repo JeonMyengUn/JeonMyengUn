@@ -48,7 +48,7 @@
 
 ### 멋쟁이사자처럼 at 평택대학교
 
-(2018.03~2019.07) 7~8th
+(2018.03 ~ 2019.07) 7~8th
 
 [https://www.likelion.net/univ](https://www.likelion.net/univ)
 
