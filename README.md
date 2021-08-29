@@ -1,30 +1,66 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KyZXEAg3QhqLMpG8r+8fhAXLRk2vvoC2f3B09zVXn8CA5QIVfZOJ3BCsw2P0p/We" crossorigin="anonymous">
-</head>
-<body>
-        <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Stria_type&fontSize=70&animation=fadeIn" />
-            <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
-            <hr>
-            <div class="stack_list" align="center">
-                <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a> &nbsp
-                <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a> &nbsp
-                <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> &nbsp
-                <img src="https://img.shields.io/badge/Python3-4479A1?style=flat-square&logo=python&logoColor=white"/></a> &nbsp
-            </div>
-            <div class="contact_me">
-                <div align="center">
-                  <h3 align="center"><b>📮 Contact me 📮</b></h3>
-                </div>
-            </div>
-            <div class="other" align="center">
-                <a href="https://github.com/JeonMyengUn">
-                    <img align="center" src="https://github-readme-stats.vercel.app/api?username=JeonMyengUn" />
-                </a>
-                <hr>
-                <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJeonMyengUn&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
-            </div>
-</body>
-</html>
+# 🧑‍💻 About Me
+
+## Introduction
+
+- 안녕하세요! 1년차 데이터 분석 개발자 전명운입니다.
+- 준비중
+
+## Contact & Channel
+
+- Email | [stria_type@naver.com](mailto:stria_type@naver.com)
+- Phone | 010-2474-6591
+- Github |  [https://github.com/JeonMyengUn](https://github.com/JeonMyengUn)
+
+
+# 🔨 Skills
+
+### Front-end
+
+- Html5, Css3, bootstrap
+
+### Back-end
+
+- Django MVC , Ruby on rails MTV
+- RestFul 이해
+- AWS(EC2)
+
+### ML
+
+- operations  이해
+- autoML
+
+### DATABASE
+
+- MySQL, SQLite3
+- ETL, RDBMS
+- Python pandas
+
+### Collaboration & Tools
+
+- Slack, Zoom
+- VS code, Vim
+- Github, Sourcetree
+- Windows, MAC
+
+# Education
+
+### 멋쟁이사자처럼 at 평택대학교
+
+(2018.03~2019.07) 7~8th
+
+[https://www.likelion.net/univ](https://www.likelion.net/univ)
+
+- 웹서비스 아이디어 구현
+- MVC, MTV 이해
+- Restful 풀스택 개발 경험
+---
+### 멋쟁이사자처럼 KDT
+
+(2021.05 ~ 2021.08)
+
+[https://www.likelion.net/ai-school](https://www.likelion.net/ai-school)
+
+- Python pandas, ETL
+- [웹 크롤링을 통한 데이터 분석 프로젝트 수행](https://github.com/Likelon-Melon-Analysis/Likelion_KDT_Melon_Analysis)
+- [Dacon ML 참여 프로젝트](https://github.com/Likelion-ML-Project/ML_Project)
+- ML 종류와 원리 이해, autoML
