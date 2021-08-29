@@ -58,7 +58,7 @@
 ---
 ### 멋쟁이사자처럼 KDT
 
-(2021.05 ~ 2021.08)
+(2021.05 ~ 2021.08) 3th
 
 [https://www.likelion.net/ai-school](https://www.likelion.net/ai-school)
 
