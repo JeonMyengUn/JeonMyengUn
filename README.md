@@ -25,11 +25,12 @@
 
 - Django MVC , Ruby on rails MTV
 - RestFul 이해
+- CRUD 구현
 - AWS(EC2)
 
 ### ML
 
-- operations  이해
+- sklearn, keras
 - autoML
 
 ### DATABASE
