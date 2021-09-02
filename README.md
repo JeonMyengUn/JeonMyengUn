@@ -11,7 +11,7 @@
 ## Contact & Channel
 
 - Email | [stria_type@naver.com](mailto:stria_type@naver.com)
-- Phone | 010-2474-6591
+- Phone | (82+)010-2474-6591
 - Github |  [https://github.com/JeonMyengUn](https://github.com/JeonMyengUn)
 
 
@@ -55,9 +55,10 @@
 
 [https://www.likelion.net/univ](https://www.likelion.net/univ)
 
-- 웹서비스 아이디어 구현
-- MVC, MTV 이해
-- Restful 풀스택 개발 경험
+- Ruby on rails MTV 패턴을 이용한 웹 개발
+- Python Django MVC 패턴을 이용한 웹 개발
+- Rest api 풀스택 개발 경험
+- CRUD
 ---
 ### 멋쟁이사자처럼 KDT
 
@@ -65,7 +66,9 @@
 
 [https://www.likelion.net/ai-school](https://www.likelion.net/ai-school)
 
-- Python pandas, ETL
+- pandas, sklearn, keras
+- dacon 대회 참여
 - [웹 크롤링을 통한 데이터 분석 프로젝트 수행](https://github.com/Likelon-Melon-Analysis/Likelion_KDT_Melon_Analysis)
 - [Dacon ML 참여 프로젝트](https://github.com/Likelion-ML-Project/ML_Project)
-- ML 종류와 원리 이해, autoML
+- 경사하강법
+- ML 종류와 원리 
