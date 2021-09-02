@@ -27,6 +27,7 @@
 - RestFul 이해
 - CRUD 구현
 - AWS(EC2)
+- Selenium, Bs4 웹 데이터 크롤링
 
 ### ML
 
