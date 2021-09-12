@@ -33,7 +33,7 @@
 
 - sklearn, keras
 - Tensorflow
-- autoML
+- NNI
 
 ### DATABASE
 
