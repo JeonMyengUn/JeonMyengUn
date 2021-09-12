@@ -17,23 +17,28 @@
 
 # 🔨 Skills
 
-<span><img src="https://img.shields.io/badge/HTML-e34f26?style=flat&logo=html5&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/CSS-1572b6?style=flat&logo=css3&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=AWS&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/Python-Pandas-1572b6?style=flat&logo=pandas&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/Python-Numpy-013143?style=flat&logo=numpy&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/Python-Django-092E20?style=flat&logo=Django&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=Selenium&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/Ruby on rails-CC0000?style=flat&logo=Ruby on rails&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=SQLite&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/keras-D00000?style=flat&logo=Keras&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/Sklearn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/macOS-000000?style=flat&logo=MacOS&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=Windows&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/HTML-e34f26?style=flat&logo=html5&logoColor=white"/></span> <!-- HTML -->
+<span><img src="https://img.shields.io/badge/CSS-1572b6?style=flat&logo=css3&logoColor=white"/></span> <!-- CSS -->
+<span><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white"/></span> <!-- Bootstrap -->
+
+<span><img src="https://img.shields.io/badge/Python-Pandas-1572b6?style=flat&logo=pandas&logoColor=white"/></span> <!-- Python-pandas -->
+<span><img src="https://img.shields.io/badge/Python-Numpy-013143?style=flat&logo=numpy&logoColor=white"/></span> <!-- Python-numpy -->
+<span><img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=Selenium&logoColor=white"/></span> <!-- Selenium -->
+
+<span><img src="https://img.shields.io/badge/Python-Django-092E20?style=flat&logo=Django&logoColor=white"/></span> <!-- Python-Django -->
+<span><img src="https://img.shields.io/badge/Ruby on rails-CC0000?style=flat&logo=Ruby on rails&logoColor=white"/></span> <!-- Ruby on rails -->
+
+<span><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/></span> <!-- MYSQL -->
+<span><img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=SQLite&logoColor=white"/></span> <!-- SQLite -->
+
+<span><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white"/></span> <!-- Tensorflow -->
+<span><img src="https://img.shields.io/badge/keras-D00000?style=flat&logo=Keras&logoColor=white"/></span> <!-- Keras -->
+<span><img src="https://img.shields.io/badge/Sklearn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/></span> <!-- Sklearn -->
+
+<span><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></span> <!-- Github -->
+<span><img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=AWS&logoColor=white"/></span> <!-- AWS -->
+<span><img src="https://img.shields.io/badge/macOS-000000?style=flat&logo=MacOS&logoColor=white"/></span> <!-- MacOS -->
+<span><img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=Windows&logoColor=white"/></span> <!-- Windows -->
 
 ### Front-end
 
