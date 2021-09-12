@@ -1,4 +1,4 @@
-# 🧑‍💻 About Me
+# 🧑‍💻 About Me [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJeonMyengUn&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visitor&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ## Introduction
 
@@ -26,7 +26,7 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-F3w7mX95PdgyTmZZMECAngseQB83DfGTowi0iMjiWaeVhAn4FJkqJByhZMI3AhiU" crossorigin="anonymous">
 </head>
 <body>
-    <div class="container-fluid">
+    <div class="container-fluid", id="skills">
         Front-end : 
         <span><img src="https://img.shields.io/badge/HTML-e34f26?style=flat&logo=html5&logoColor=white"/></span> <!-- HTML -->
         <span><img src="https://img.shields.io/badge/CSS-1572b6?style=flat&logo=css3&logoColor=white"/></span> <!-- CSS -->
@@ -40,7 +40,7 @@
         <br>
         WEB : 
         <span><img src="https://img.shields.io/badge/Python-Django-092E20?style=flat&logo=Django&logoColor=white"/></span> <!-- Python-Django -->
-        <span><img src="https://img.shields.io/badge/Ruby on rails-CC0000?style=flat&logo=Ruby on rails&logoColor=white"/></span> <!-- Ruby on rails --> 
+        <span><img src="https://img.shields.io/badge/Ruby on rails-CC0000?style=flat&logo=Ruby on rails&logoColor=white"/></span> <!-- Ruby on rails -->
         <br>
         DataBase : 
         <span><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/></span> <!-- MYSQL -->
