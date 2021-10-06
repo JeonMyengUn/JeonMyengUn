@@ -56,6 +56,7 @@
         <span><img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=AWS&logoColor=white"/></span> <!-- AWS -->
         <span><img src="https://img.shields.io/badge/macOS-000000?style=flat&logo=MacOS&logoColor=white"/></span> <!-- MacOS -->
         <span><img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=Windows&logoColor=white"/></span> <!-- Windows -->
+        <span><img src="https://img.shields.io/badge/docker-2496ED?style=flat&logo=Docker&logoColor=white"/></span> <!-- Doker -->
     </div>
 
 </body>
