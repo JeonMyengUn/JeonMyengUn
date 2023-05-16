@@ -11,7 +11,7 @@
 ## Contact & Channel
 
 - Email | [stria_type@naver.com](mailto:stria_type@naver.com)
-- Phone | (82+)010-2474-6591
+- Phone | (82+)010-5690-6591
 - Github |  [https://github.com/JeonMyengUn](https://github.com/JeonMyengUn)
 
 
